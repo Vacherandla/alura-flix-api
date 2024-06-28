@@ -1,0 +1,42 @@
+{"videos":[
+    {
+        "titulo":"Cuando usar let, var y const?",
+        "categoria":"Front End",
+        "imagen":"https://img.youtube.com/vi/PztCEdIJITY/0.jpg",
+        "link":"https://youtu.be/PztCEdIJITY?si=OTAt1tUQtWIAwdDt",
+        "descripcion":"¿A veces cuando estás programando sientes dificultades en saber en qué momento utilizar let, var o const para declarar una variable? En este video te sacamos estas dudas, además de explicarte lo que es escopo global y local en JavaScript. ¿Quieres saber más?",
+        "id":"1"
+    },
+    {
+        "titulo":"Que es Javascript?",
+        "categoria":"Front End",
+        "imagen":"https://img.youtube.com/vi/GJfOSoaXk4s/0.jpg",
+        "link":"https://youtu.be/GJfOSoaXk4s?si=_wxADxd6n1UEzAho",
+        "descripcion":"JavaScript: ¿qué es y cómo se hizo este lenguaje que genera muchas discusiones y debates entre la gente del área de desarrollo? Genesys y Gabriela nos hablan exactamente de esto en este Alura Tips. ¿Quieres saber más?",
+        "id":"2"
+    },
+    {
+        "titulo":"Equipo de Front End",
+        "categoria":"Front End",
+        "imagen":"https://img.youtube.com/vi/rpvrLaBQwgg/0.jpg",
+        "link":"https://youtu.be/rpvrLaBQwgg?si=wACkuFeR_6uZu8tm",
+        "descripcion":"¿Estás empezando tus estudios de Programación? ¿Te interesa todo lo que es la creación de Páginas Web Desarrollo de Softwares? ¿O estás pensando en cambiar de carrera y entrar a la maravillosa area de tecnología? En este video, Jeanmarie Quijada, instructora Front End en Alura Latam te explica qué hace el equipo de Front End. ¿Quieres saber más?",
+        "id":"3"
+    },
+    {
+        "titulo":"Spring Framework",
+        "categoria":"Back End",
+        "imagen":"https://img.youtube.com/vi/t-iqt1b2qqk/0.jpg",
+        "link":"https://youtu.be/t-iqt1b2qqk?si=Y7eTiIwv9KcjMEBR",
+        "descripcion":"¿Busca un framework  para utilizar en sus proyectos? ¿Conoce Spring Framework? Spring es el framework más usado de Java. Nos ofrece herramientas que nos permiten crear proyectos más avanzados, con mejores prácticas y en menor tiempo. También posee una gran comunidad, lo que nos brinda muchísima documentación y ayuda. ¿Quieres saber más?",
+        "id":"4"
+    },
+    {
+        "titulo":"Qué son las soft skills?",
+        "categoria":"Innovación y Gestión",
+        "imagen":"https://img.youtube.com/vi/vhwspfvI52k/0.jpg",
+        "link":"https://youtu.be/vhwspfvI52k?si=hAyn0QztUuVi031p",
+        "descripcion":"¿Qué son las Softskills y por qué es tan importante desarrollarlas para posicionarse en el mercado laboral? En este video de Alura Tips, Pri Stuani nos habla de las habilidades más buscadas por las empresas en sus profesionales y cómo las Soft Skills te ayudan en el día a día. ¿Quieres saber más?",
+        "id":"5"
+    }
+]}
